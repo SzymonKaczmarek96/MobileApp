@@ -34,8 +34,7 @@ A **Mobile Application** built with **Jetpack Compose** and **MVVM architecture*
 - Android Studio (latest version).
 - Android device/emulator (API 21+).
 
-### Steps
-1. **Clone the repo**:
+### Clone the repo
    ```bash
    git clone https://github.com/SzymonKaczmarek96/MobileApp.git
    cd MobileApp
